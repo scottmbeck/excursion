@@ -3,11 +3,18 @@ body{
   text-align: center;
 }
 
-h1{
+.head1{
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
+}
+
+.head2{
+  font-family:Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color:white;
 }
 
 h3{
