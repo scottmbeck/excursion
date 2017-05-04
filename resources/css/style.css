@@ -17,7 +17,19 @@ body{
   color:white;
 }
 
-h3{
+h2{
   color: Aquamarine;
   font-size: 16px;
+}
+
+.h2_2{
+  color: grey;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+.footer{
+  text-align: right;
+  color: gray;
+  font-family: Verdana;
 }
